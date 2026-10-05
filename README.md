@@ -1,4 +1,8 @@
-# Mold Classification — Comparative CNN and Hybrid CNN-ML Study
+# Reproducibility README file
+
+This file contains instructions on how to run the current code and to reproduce the models by retraining them.
+
+## Mold Classification — Comparative CNN and Hybrid CNN-ML Study
 
 This repository contains the full source code for the study:
 
